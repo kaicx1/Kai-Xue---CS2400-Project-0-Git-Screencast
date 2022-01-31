@@ -47,7 +47,7 @@ public class project0 {
         
         //Gets the number of rows and columns for the grid
         System.out.println("\n--------");
-        System.out.println("Enter rows and columns, seperated by a space:");
+        System.out.println("Enter columns and rows, seperated by a space:");
         try {
             rows = scanner.nextInt();
             columns = scanner.nextInt();
